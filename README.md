@@ -1,3 +1,9 @@
+# 안내사항
+
+
+이 소스코드를 다운로드받아 서버를 운영 시 오류가 날 수 있습니다.
+
+
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
