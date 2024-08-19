@@ -1,9 +1,11 @@
 # 안내사항
 
 
-이 소스코드를 다운로드받아 서버를 운영 시 오류가 날 수 있습니다.
+1.이 소스코드를 다운로드받아 서버를 운영 시 오류가 날 수 있습니다.
 WEB서버 파일은 계속 올려놓겠습니다. 이상한파일은 수정하고 계속 올리겠습니다.
 
+2.본 소스코드의 일부 파일(kkutu.js,classic.js)은
+- [Prjkt]([https://github.com/PrjKKuTu/KKuTu])을 참고하여 제작되었습니다.
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
