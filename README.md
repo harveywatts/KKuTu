@@ -5,7 +5,7 @@
 WEB서버 파일은 계속 올려놓겠습니다. 이상한파일은 수정하고 계속 올리겠습니다.
 
 2.본 소스코드의 일부 파일(kkutu.js,classic.js)은
-- [Prjkt]([https://github.com/PrjKKuTu/KKuTu])을 참고하여 제작되었습니다.
+- [Prjkt](https://github.com/PrjKKuTu/KKuTu)을 참고하여 제작되었습니다.
 # KKuTu
 - Made by [JJoriping](http://blog.jjo.kr/)
 - Special thanks to
