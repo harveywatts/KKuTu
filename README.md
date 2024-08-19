@@ -11,14 +11,18 @@ WEB서버 파일은 계속 올려놓겠습니다. 이상한파일은 수정하�
 
 -이 소스코드를 다운로드받아 **강화** 시스템을 사용할 때, **body.js** 와 **major.js** 에 있는 아이템 목록들을 전부 DB에 추가하셔야 합니다.
 
+
+# Windows 환경에서에 자세한 과정
+- [끄튜브 공식유튜브](https://www.youtube.com/@kkutubeofficial)를 참고하세요.
+- 
 # KKuTu
-- Made by [JJoriping](http://blog.jjo.kr/)
+- Made by [JJoriping](http://github.com/JJoriping)
 - Special thanks to
 	* [샌드박스 :: SDBX](http://cafe.naver.com/sdbx)
 	* [SWMaestro](http://www.swmaestro.kr)
 	* You to have interested in this repository :)
 - [KKuTu Wiki](https://github.com/JJoriping/KKuTu/wiki)
-- [프리 서버 목록](http://jjo.kr/kkutu)
+- [프리 서버 목록](https://free.kkutu.kr)
 - Languages
 	* [한국어](#한국어)
 	* [English](#english)
@@ -37,7 +41,6 @@ WEB서버 파일은 계속 올려놓겠습니다. 이상한파일은 수정하�
 1. 명령 프롬프트에서 `npm install -g grunt grunt-cli`를 입력해 [grunt](https://gruntjs.com/)를 설치합니다.
 1. [PostgreSQL](https://www.postgresql.org/) 인스톨러를 내려받아 *pgAdmin*(자동으로 설치됨)과 함께 설치합니다.
 1. *pgAdmin*을 실행시키고 SQL 파일(`./db.sql`)을 데이터베이스에 입력시킵니다.
-	* 자세한 과정은 [개발자 블로그][dev-blog]를 참고하세요.
 1. 배치 파일(`./server-setup.bat`)을 실행시킵니다.
 1. 배치 파일(`./Server/run.bat`)을 실행시킵니다.
 	* 되도록 이 배치 파일을 직접 종료하지 말고 이를 실행시켜 나타나는 창을 종료하세요.
@@ -114,5 +117,3 @@ This repository provides you what you have to prepare to play **KKuTu**.
 - [GNU General Public License](https://github.com/JJoriping/KKuTu/blob/master/LICENSE) for all source codes in this repository.
 - [Creative Commons License CC BY](https://creativecommons.org/licenses/by/4.0/) for all images and sounds in this repository.
 	- But if you use these for operating KKuTu service provided by this repository, you may omit the attribution(BY).
-
-[dev-blog]: http://blog.jjo.kr/220935346136
